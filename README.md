@@ -1,4 +1,4 @@
-# Formulário de Login Responsivo com Estilo Translúcido
+# Formulário de Login Responsivo
 
 Este projeto apresenta um formulário de login moderno e responsivo, com efeito de desfoque (fundo translúcido), ideal para aplicações web com design minimalista e foco em usabilidade.
 
@@ -7,10 +7,13 @@ Este projeto apresenta um formulário de login moderno e responsivo, com efeito 
 Criar uma interface de login visualmente agradável e funcional, que se adapte a diferentes tamanhos de tela (mobile, tablet, desktop), utilizando apenas **HTML** e **CSS**.
 
 ## 📸 Preview
+<p align="center">
+<img src="https://github.com/danielsantos-dev22/Projeto-tela-de-login/blob/main/img/White%20and%20Black%20Minimalist%20Phone%20Mockup%20Instagram%20Story.png" width="200"/>
 
-![Preview](https://picsum.photos/800/400?random=3)
+<img src="https://github.com/danielsantos-dev22/Projeto-tela-de-login/blob/main/img/Blue%20Smart%20TV%20Promo%20Instagram%20Post.png" width="400"/>
+</p>
 
-> A imagem de fundo é carregada dinamicamente via [Picsum Photos](https://picsum.photos), oferecendo uma aparência variada a cada recarregamento.
+
 
 ## ⚙️ Tecnologias Utilizadas
 
