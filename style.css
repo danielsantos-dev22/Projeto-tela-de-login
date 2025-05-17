@@ -113,3 +113,28 @@ h1 {
 .registra-se p a:hover {
     text-decoration: underline;
 }
+
+/* Responsividade para telas menores */
+@media (max-width: 480px) {
+    h1 {
+        font-size: 28px;
+    }
+
+    .container {
+        padding: 20px;
+    }
+
+    .input-container input {
+        padding: 16px 40px 16px 16px;
+    }
+
+    .button {
+        font-size: 14px;
+    }
+
+    .input-container a,
+    .registra-se p,
+    .registra-se p a {
+        font-size: 14px;
+    }
+}
